@@ -1,0 +1,28 @@
+_repo: Viljan-valtakunta_72568
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hemmer, Jarl
+    alias: Hemmer, Jarl Robert
+    birthdate: 1893
+    deathdate: 1944
+    gutenberg_agent_id: '44373'
+    url: http://www.gutenberg.org/2009/agents/44373
+description: ''
+gutenberg_issued: '2023-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72568'
+language: fi
+pgterms:marc905: 20231219093257hemmer
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bHolger Schildt, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Viljan valtakunta
+url: http://www.gutenberg.org/ebooks/72568
