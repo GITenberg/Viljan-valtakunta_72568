@@ -1,5 +1,8 @@
 _repo: Viljan-valtakunta_72568
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hemmer, Jarl
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44373'
     url: http://www.gutenberg.org/2009/agents/44373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72568#Viljan-valtakunta
 gutenberg_issued: '2023-12-31'
 gutenberg_type: Text
 identifiers:
